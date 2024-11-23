@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=DCIN Pin=Q?-1
+Removed Pin From Net: NetName=GND Pin=Q?-2
+Removed Pin From Net: NetName=5V Pin=Q?-3
+Removed Member From Class: ClassName=BTL-Sch Member=Q?
+Added Component: Designator=Q1(TO254P1054X470X2600-3)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LM7805CT/Comset+Semiconductors/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Comset Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM7805CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220 Comset Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LM7805CT/Comset+Semiconductors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DCIN Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=5V Pin=Q1-3
+Added Member To Class: ClassName=BTL-Sch Member=Component Q1 LM7805

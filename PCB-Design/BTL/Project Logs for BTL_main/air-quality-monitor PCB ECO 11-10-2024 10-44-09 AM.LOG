@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=PC14 Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=PC15 Pin=C8-2
+Removed Pin From Net: NetName=5V Pin=R16-1
+Removed Pin From Net: NetName=ADC4 Pin=U1-14
+Removed Pin From Net: NetName=ADC5 Pin=U1-15
+Removed Pin From Net: NetName=PC15 Pin=Y2-1
+Removed Pin From Net: NetName=PC14 Pin=Y2-2
+Removed Member From Class: ClassName=air-quality-monitor Member=C7
+Removed Member From Class: ClassName=air-quality-monitor Member=C8
+Removed Member From Class: ClassName=air-quality-monitor Member=Y2
+Added Component: Designator=R19(tro smd 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006333"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 1% 10k"; VariantName = "[No Variations]"
+Added Component: Designator=R20(tro smd 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006333"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 1% 10k"; VariantName = "[No Variations]"
+Added Component: Designator=R21(tro smd 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006333"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 1% 10k"; VariantName = "[No Variations]"
+Added Component: Designator=R22(tro smd 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006333"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 1% 10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=R16-1
+Added Pin To Net: NetName=ADC4 Pin=R19-2
+Added Pin To Net: NetName=GND Pin=R20-1
+Added Pin To Net: NetName=ADC5 Pin=R21-2
+Added Pin To Net: NetName=GND Pin=R22-1
+Added Pin To Net: NetName=PA6 Pin=S3-1
+Added Pin To Net: NetName=NetR15_1 Pin=S4-1
+Added Pin To Net: NetName=RX1 Pin=U5-4
+Change Net Name : Old Net Name=ADC4 New Net Name=NetR11_1
+Change Net Name : Old Net Name=ADC5 New Net Name=NetR13_1
+Added Pin To Net: NetName=ADC4 Pin=R19-1
+Added Pin To Net: NetName=ADC4 Pin=R20-2
+Added Pin To Net: NetName=ADC4 Pin=U1-14
+Added Net: Name=ADC4
+Added Pin To Net: NetName=ADC5 Pin=R21-1
+Added Pin To Net: NetName=ADC5 Pin=R22-2
+Added Pin To Net: NetName=ADC5 Pin=U1-15
+Added Net: Name=ADC5
+Added Member To Class: ClassName=air-quality-monitor Member=Component R5 20R
+Added Member To Class: ClassName=air-quality-monitor Member=Component R19 10K
+Added Member To Class: ClassName=air-quality-monitor Member=Component R20 20K
+Added Member To Class: ClassName=air-quality-monitor Member=Component R21 10K
+Added Member To Class: ClassName=air-quality-monitor Member=Component R22 20K
+Added Member To Class: ClassName=air-quality-monitor Member=Component S4 CO2 Sensor

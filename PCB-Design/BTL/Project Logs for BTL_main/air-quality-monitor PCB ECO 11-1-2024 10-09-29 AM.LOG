@@ -1,0 +1,4 @@
+Change Component Comment : Designator=P1 Old Comment=SWD New Comment=header4p_90
+Added Pin To Net: NetName=5V Pin=S3-1
+Added Pin To Net: NetName=GND Pin=S5-1
+Added Pin To Net: NetName=GND Pin=U5-4

@@ -1,0 +1,114 @@
+Removed Pin From Net: NetName=3V3 Pin=J1-1
+Removed Pin From Net: NetName=NetJ1_2 Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J1-4
+Removed Pin From Net: NetName=NetJ1_5 Pin=J1-5
+Removed Pin From Net: NetName=3V3 Pin=J1-6
+Removed Pin From Net: NetName=3V3 Pin=P1-1
+Removed Pin From Net: NetName=SWDIO Pin=P1-2
+Removed Pin From Net: NetName=SWDCLK Pin=P1-3
+Removed Pin From Net: NetName=GND Pin=P1-4
+Removed Pin From Net: NetName=5V Pin=S1-1
+Removed Pin From Net: NetName=5V Pin=S1-2
+Removed Pin From Net: NetName=5V Pin=S1-3
+Removed Pin From Net: NetName=ADC4 Pin=S1-4
+Removed Pin From Net: NetName=NetR10_2 Pin=S1-5
+Removed Pin From Net: NetName=ADC4 Pin=S1-6
+Removed Pin From Net: NetName=5V Pin=S2-1
+Removed Pin From Net: NetName=5V Pin=S2-2
+Removed Pin From Net: NetName=5V Pin=S2-3
+Removed Pin From Net: NetName=ADC5 Pin=S2-4
+Removed Pin From Net: NetName=NetR12_2 Pin=S2-5
+Removed Pin From Net: NetName=ADC5 Pin=S2-6
+Removed Pin From Net: NetName=PA6 Pin=S3-1
+Removed Pin From Net: NetName=GND Pin=S3-4
+Removed Pin From Net: NetName=TX2 Pin=S4-3
+Removed Pin From Net: NetName=RX2 Pin=S4-4
+Removed Pin From Net: NetName=GND Pin=S4-8
+Removed Pin From Net: NetName=5V Pin=S4-9
+Removed Pin From Net: NetName=NetR15_1 Pin=S5-1
+Removed Pin From Net: NetName=DI1 Pin=S5-3
+Removed Pin From Net: NetName=GND Pin=S5-4
+Removed Pin From Net: NetName=ADC7 Pin=S5-5
+Removed Pin From Net: NetName=3V3 Pin=S5-6
+Removed Pin From Net: NetName=ADC0 Pin=U4-3
+Removed Pin From Net: NetName=ADC1 Pin=U4-4
+Removed Pin From Net: NetName=5V Pin=U4-5
+Removed Pin From Net: NetName=GND Pin=U4-6
+Removed Pin From Net: NetName=5V Pin=U5-1
+Removed Pin From Net: NetName=TX1 Pin=U5-2
+Removed Pin From Net: NetName=RX1 Pin=U5-4
+Removed Pin From Net: NetName=NetR17_2 Pin=U6-3
+Removed Pin From Net: NetName=VCC Pin=U6-8
+Removed Pin From Net: NetName=GND Pin=U6-15
+Removed Pin From Net: NetName=GND Pin=U6-16
+Removed Pin From Net: NetName=TX3 Pin=U6-21
+Removed Pin From Net: NetName=RX3 Pin=U6-22
+Added Component: Designator=J1(header2x3)
+Added Component: Designator=P1(header4p_90)
+Added Component: Designator=S1(mq7)
+Added Component: Designator=S2(mq135)
+Added Component: Designator=S3(dht22)
+Added Component: Designator=S4(pm25sensor)
+Added Component: Designator=S4(co2sensor)
+Added Component: Designator=U4(DS3231)
+Added Component: Designator=U5(LCD)
+Added Component: Designator=U6(ESP826612F)
+Added Pin To Net: NetName=3V3 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=NetJ1_5 Pin=J1-5
+Added Pin To Net: NetName=3V3 Pin=J1-6
+Added Pin To Net: NetName=3V3 Pin=P1-1
+Added Pin To Net: NetName=SWDIO Pin=P1-2
+Added Pin To Net: NetName=SWDCLK Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=5V Pin=S1-1
+Added Pin To Net: NetName=5V Pin=S1-2
+Added Pin To Net: NetName=5V Pin=S1-3
+Added Pin To Net: NetName=ADC4 Pin=S1-4
+Added Pin To Net: NetName=NetR10_2 Pin=S1-5
+Added Pin To Net: NetName=ADC4 Pin=S1-6
+Added Pin To Net: NetName=5V Pin=S2-1
+Added Pin To Net: NetName=5V Pin=S2-2
+Added Pin To Net: NetName=5V Pin=S2-3
+Added Pin To Net: NetName=ADC5 Pin=S2-4
+Added Pin To Net: NetName=NetR12_2 Pin=S2-5
+Added Pin To Net: NetName=ADC5 Pin=S2-6
+Added Pin To Net: NetName=5V Pin=S3-1
+Added Pin To Net: NetName=PA6 Pin=S3-1
+Added Pin To Net: NetName=GND Pin=S3-4
+Added Pin To Net: NetName=GND Pin=S4-1
+Added Pin To Net: NetName=NetR15_1 Pin=S4-1
+Added Pin To Net: NetName=DI1 Pin=S4-3
+Added Pin To Net: NetName=TX2 Pin=S4-3
+Added Pin To Net: NetName=GND Pin=S4-4
+Added Pin To Net: NetName=RX2 Pin=S4-4
+Added Pin To Net: NetName=ADC7 Pin=S4-5
+Added Pin To Net: NetName=3V3 Pin=S4-6
+Added Pin To Net: NetName=GND Pin=S4-8
+Added Pin To Net: NetName=5V Pin=S4-9
+Added Pin To Net: NetName=ADC0 Pin=U4-3
+Added Pin To Net: NetName=ADC1 Pin=U4-4
+Added Pin To Net: NetName=5V Pin=U4-5
+Added Pin To Net: NetName=GND Pin=U4-6
+Added Pin To Net: NetName=5V Pin=U5-1
+Added Pin To Net: NetName=TX1 Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-4
+Added Pin To Net: NetName=RX1 Pin=U5-4
+Added Pin To Net: NetName=NetR17_2 Pin=U6-3
+Added Pin To Net: NetName=VCC Pin=U6-8
+Added Pin To Net: NetName=GND Pin=U6-15
+Added Pin To Net: NetName=GND Pin=U6-16
+Added Pin To Net: NetName=TX3 Pin=U6-21
+Added Pin To Net: NetName=RX3 Pin=U6-22
+Added Member To Class: ClassName=air-quality-monitor Member=Component J1 header2x3
+Added Member To Class: ClassName=air-quality-monitor Member=Component P1 SWD
+Added Member To Class: ClassName=air-quality-monitor Member=Component S1 MQ7
+Added Member To Class: ClassName=air-quality-monitor Member=Component S2 MQ135
+Added Member To Class: ClassName=air-quality-monitor Member=Component S3 DHT22
+Added Member To Class: ClassName=air-quality-monitor Member=Component S4 PM2.5 SENSOR
+Added Member To Class: ClassName=air-quality-monitor Member=Component S4 CO2 Sensor
+Added Member To Class: ClassName=air-quality-monitor Member=Component U4 DS3231
+Added Member To Class: ClassName=air-quality-monitor Member=Component U5 LCD

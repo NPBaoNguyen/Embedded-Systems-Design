@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=3V3 Pin=J2-01
+Removed Pin From Net: NetName=RX3 Pin=J2-02
+Removed Pin From Net: NetName=TX3 Pin=J2-03
+Removed Pin From Net: NetName=GND Pin=J2-04
+Change Component Comment : Designator=P1 Old Comment=header4p_90 New Comment=SWD
+Added Component: Designator=J2(SAMTEC_MTSW-105-24-G-S-255)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MTSW-105-24-G-S-255"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=J2-01
+Added Pin To Net: NetName=RX3 Pin=J2-02
+Added Pin To Net: NetName=TX3 Pin=J2-03
+Added Pin To Net: NetName=GND Pin=J2-04
+Added Member To Class: ClassName=BTL-Sch Member=Component P1 SWD

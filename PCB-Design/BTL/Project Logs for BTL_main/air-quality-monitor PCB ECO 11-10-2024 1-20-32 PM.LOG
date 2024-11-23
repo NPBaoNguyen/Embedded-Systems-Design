@@ -1,0 +1,14 @@
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Added Component: Designator=S5(pm25sensor)
+Added Pin To Net: NetName=NetR15_1 Pin=S5-1
+Added Pin To Net: NetName=GND Pin=S5-2
+Added Pin To Net: NetName=DI1 Pin=S5-3
+Added Pin To Net: NetName=GND Pin=S5-4
+Added Pin To Net: NetName=ADC7 Pin=S5-5
+Added Pin To Net: NetName=3V3 Pin=S5-6
+Added Member To Class: ClassName=air-quality-monitor Member=Component S5 PM2.5 SENSOR
+Added Member To Class: ClassName=air-quality-monitor Member=Component U5 LCD

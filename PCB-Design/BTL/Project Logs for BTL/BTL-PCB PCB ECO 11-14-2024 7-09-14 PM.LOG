@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=PB8 Pin=U1-45
+Added Pin To Net: NetName=PB8 Pin=U4-3
+Added Net: Name=PB8
+Added Pin To Net: NetName=PB9 Pin=U1-46
+Added Pin To Net: NetName=PB9 Pin=U4-4
+Added Net: Name=PB9

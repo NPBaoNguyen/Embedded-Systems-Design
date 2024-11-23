@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=5V Pin=S3-1
+Removed Pin From Net: NetName=GND Pin=S3-4
+Added Component: Designator=S3(dht22)
+Added Pin To Net: NetName=5V Pin=S3-1
+Added Pin To Net: NetName=PA6 Pin=S3-2
+Added Pin To Net: NetName=GND Pin=S3-4
+Added Pin To Net: NetName=NetR15_1 Pin=S4-1
+Added Pin To Net: NetName=RX1 Pin=U5-4
+Added Member To Class: ClassName=air-quality-monitor Member=Component S4 CO2 Sensor

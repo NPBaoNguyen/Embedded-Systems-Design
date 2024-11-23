@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=3V3 Pin=P1-1
+Removed Pin From Net: NetName=SWDIO Pin=P1-2
+Removed Pin From Net: NetName=SWDCLK Pin=P1-3
+Removed Pin From Net: NetName=GND Pin=P1-4
+Added Component: Designator=P1(header4p_90)
+Added Pin To Net: NetName=3V3 Pin=P1-1
+Added Pin To Net: NetName=SWDIO Pin=P1-2
+Added Pin To Net: NetName=SWDCLK Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Member To Class: ClassName=BTL-Sch Member=Component U4 DS3231

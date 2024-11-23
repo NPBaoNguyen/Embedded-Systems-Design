@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=air-quality-monitor Member=AV?
+Added Component: Designator=JACK DC?(JACK DC 5.5)
+Add component (AddParameter): Name = "Value"; Value = "Jac DC"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=air-quality-monitor Member=Component JACK DC? JACK DC 5.5

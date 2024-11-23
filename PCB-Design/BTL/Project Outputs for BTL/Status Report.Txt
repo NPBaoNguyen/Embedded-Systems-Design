@@ -1,0 +1,20 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [BTL.PrjPcb]
+   Generated File[BTL-PCB_Legend_Top.gbr]
+   Generated File[BTL-PCB_Paste_Top.gbr]
+   Generated File[BTL-PCB_Soldermask_Top.gbr]
+   Generated File[BTL-PCB_Copper_Signal_Top.gbr]
+   Generated File[BTL-PCB_Copper_Signal_Bot.gbr]
+   Generated File[BTL-PCB_Soldermask_Bot.gbr]
+   Generated File[BTL-PCB_Paste_Bot.gbr]
+   Generated File[BTL-PCB_Legend_Bot.gbr]
+   Generated File[BTL-PCB_Profile.gbr]
+   Generated File[BTL-PCB.EXTREP]
+   Generated File[BTL-PCB.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 8:56:30 AM On 11/15/2024

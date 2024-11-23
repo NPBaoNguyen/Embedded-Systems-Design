@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=BUZZER Pin=U1-20
+Added Pin To Net: NetName=PA6 Pin=S3-1
+Added Pin To Net: NetName=NetR15_1 Pin=S4-1
+Added Pin To Net: NetName=BOOT1 Pin=U1-20
+Added Pin To Net: NetName=BUZZER Pin=U1-31
+Added Pin To Net: NetName=BOOT0 Pin=U1-44
+Added Pin To Net: NetName=RX1 Pin=U5-4
+Added Member To Class: ClassName=air-quality-monitor Member=Component S4 CO2 Sensor

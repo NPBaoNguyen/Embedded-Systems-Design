@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=ADC0 Pin=U4-3
+Removed Pin From Net: NetName=ADC1 Pin=U4-4
+Removed Pin From Net: NetName=5V Pin=U4-5
+Removed Pin From Net: NetName=GND Pin=U4-6
+Added Component: Designator=U4(DS3231)
+Added Pin To Net: NetName=ADC0 Pin=U4-3
+Added Pin To Net: NetName=ADC1 Pin=U4-4
+Added Pin To Net: NetName=5V Pin=U4-5
+Added Pin To Net: NetName=GND Pin=U4-6
+Added Member To Class: ClassName=air-quality-monitor Member=Component U6 ESP8266 12F

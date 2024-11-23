@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=NetR17_2 Pin=U6-3
+Removed Pin From Net: NetName=GND Pin=U6-15
+Removed Pin From Net: NetName=GND Pin=U6-16
+Removed Pin From Net: NetName=TX3 Pin=U6-21
+Removed Pin From Net: NetName=RX3 Pin=U6-22
+Change Component Comment : Designator=R17 Old Comment=1K New Comment=10K
+Added Component: Designator=J2(SAMTEC_MTSW-105-24-G-S-255)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MTSW-105-24-G-S-255"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R23(tro smd 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006333"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 1% 10k"; VariantName = "[No Variations]"
+Added Component: Designator=R24(tro smd 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006333"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 1% 10k"; VariantName = "[No Variations]"
+Added Component: Designator=U6(ESP826612F)
+Added Pin To Net: NetName=3V3 Pin=J2-01
+Added Pin To Net: NetName=RX3 Pin=J2-02
+Added Pin To Net: NetName=TX3 Pin=J2-03
+Added Pin To Net: NetName=GND Pin=J2-04
+Added Pin To Net: NetName=3V3 Pin=R17-1
+Added Pin To Net: NetName=3V3 Pin=R23-1
+Added Pin To Net: NetName=3V3 Pin=R24-2
+Added Pin To Net: NetName=NetR17_2 Pin=U6-3
+Added Pin To Net: NetName=3V3 Pin=U6-8
+Added Pin To Net: NetName=GND Pin=U6-15
+Added Pin To Net: NetName=GND Pin=U6-16
+Added Pin To Net: NetName=GND Pin=U6-18
+Added Pin To Net: NetName=TX3 Pin=U6-21
+Added Pin To Net: NetName=RX3 Pin=U6-22
+Added Pin To Net: NetName=NetR23_2 Pin=R23-2
+Added Pin To Net: NetName=NetR23_2 Pin=U6-1
+Added Net: Name=NetR23_2
+Added Pin To Net: NetName=NetR24_1 Pin=R24-1
+Added Pin To Net: NetName=NetR24_1 Pin=U6-17
+Added Net: Name=NetR24_1
+Added Member To Class: ClassName=air-quality-monitor Member=Component J2
+Added Member To Class: ClassName=air-quality-monitor Member=Component R23 10K
+Added Member To Class: ClassName=air-quality-monitor Member=Component R24 10K
+Added Member To Class: ClassName=air-quality-monitor Member=Component S4 CO2 Sensor

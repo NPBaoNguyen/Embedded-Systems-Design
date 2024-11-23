@@ -1,0 +1,3 @@
+Added Component: Designator=AV?(AV2 FELMALE DON DUNG_SLIVER NAM)
+Added Member To Class: ClassName=air-quality-monitor Member=Component AV? AV2
+Added Member To Class: ClassName=air-quality-monitor Member=Component U4 DS3231

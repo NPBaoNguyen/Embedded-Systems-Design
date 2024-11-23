@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=3V3 Pin=U1-8
+Removed Pin From Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=3V3 Pin=U1-9
+Added Member To Class: ClassName=BTL-Sch Member=Component J2 MTSW-105-24-G-S-255

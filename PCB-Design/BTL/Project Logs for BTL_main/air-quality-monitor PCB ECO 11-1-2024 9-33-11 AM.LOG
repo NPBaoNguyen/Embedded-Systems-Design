@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Added Pin To Net: NetName=5V Pin=S3-1
+Added Pin To Net: NetName=GND Pin=S5-1
+Added Pin To Net: NetName=GND Pin=U5-4
+Added Member To Class: ClassName=air-quality-monitor Member=Component C9 104

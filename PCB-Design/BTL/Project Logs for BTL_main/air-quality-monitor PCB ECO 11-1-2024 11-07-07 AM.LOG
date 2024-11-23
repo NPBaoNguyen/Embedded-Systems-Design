@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=5V Pin=S3-1
+Added Pin To Net: NetName=GND Pin=S4-1
+Added Pin To Net: NetName=PC13 Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U5-4
+Added Member To Class: ClassName=air-quality-monitor Member=Component J1 header2x3
+Added Member To Class: ClassName=air-quality-monitor Member=Component P1 SWD
+Added Member To Class: ClassName=air-quality-monitor Member=Component S1 MQ7
+Added Member To Class: ClassName=air-quality-monitor Member=Component S2 MQ135
+Added Member To Class: ClassName=air-quality-monitor Member=Component S3 DHT22
+Added Member To Class: ClassName=air-quality-monitor Member=Component S4 CO2 Sensor
+Added Member To Class: ClassName=air-quality-monitor Member=Component S4 PM2.5 SENSOR
+Added Member To Class: ClassName=air-quality-monitor Member=Component U4 DS3231
+Added Member To Class: ClassName=air-quality-monitor Member=Component U5 LCD
+Added Member To Class: ClassName=air-quality-monitor Member=Component U6 ESP8266 12F
